@@ -1,1 +1,46 @@
+<html>
+<head>
+<title>サイト名</title>
+</head>
+
+<body bgcolor=white>
+<basefont size=3><font size="+2"><font color=green><h1>大きく表示される見出し</h1></font>
+
+<ul>
+  <li>リスト１
+<ol><fontsize="-1">
+ <a href="#mark1"><li>リンク付き数字リスト名１</a>
+ <a href="#mark2"> <li>リンク付き数字リスト名２</a>
+ <a href="#mark3"><li>リンク付き数字リスト名３</a>
+  </font></ol>
+  <li>リスト２
+  <li>リスト３
+  <li>リスト４
+</ul>
+
+<font size="+2"><a name="mark1"> リンク付きタイトル１</a><br>
+
+<pre>
+整形済みテキストを使うと
+    こんなふうに
+    書いた通りに
+        表示されます。
+</pre>
+
+  
+<a name="mark2">リンク付きタイトル２</a><br>
+
+　<p align=center>テキストを中央寄せで表示</p>
+  
+<a name="mark3"> リンク付きタイトル３</a></font>
+
+　<p align=left>テキストを左寄せ</p>
+
+  
+  
+
+
+
+</body>
+</html>
 
